@@ -55,3 +55,4 @@ Gemeinsame Bausteine: `scenes7.py` (Timing, Untertitel, Rendering), `scenes2.py`
 - Teil 1 (13.11., „Noch 6 Tage“): Dein Handy
 - Teil 2 (14.11., „Noch 5 Tage“): Richtig abrauben
 - Teil 3 (15.11., „Noch 4 Tage“): Die 6 Regionen von Leonida → angekündigt: Teil 4 „Alles zum Release: Uhrzeit, Download und Preis“
+- Teil 4 (16.11., „Noch 3 Tage“): Alles zum Release (`scenes26.py`, mit Lippensynchron, Beat, Jubel-Pose) → angekündigt: Teil 5 „Jason & Lucia – alles zur Story“
